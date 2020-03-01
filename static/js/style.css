@@ -1,0 +1,71 @@
+body {
+    background-image: url( http://api.thumbr.it/whitenoise-361x370.png?background=ff9999ff&noise=f7edf7&density=57&opacity=69);
+    margin-bottom: 30px;
+    margin-left: 0px;
+    margin-right: 0px;      
+    }
+
+
+.container{
+
+   background-image: url( http://api.thumbr.it/whitenoise-361x370.png?background=ff9999ff&noise=f7edf7&density=57&opacity=69);
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: Palatino;
+    font-size: 24;
+    
+    
+}
+
+.col-md-12{   background-image: url( http://api.thumbr.it/whitenoise-361x370.png?background=ff9999ff&noise=f7edf7&density=57&opacity=69);
+
+
+}
+
+
+h1 {
+     color:#0cada7;
+     /* background-color: white; */
+     font-family: Georgia, serif;
+     font-weight: bold;
+     text-align: center;
+     background-image: url(https://assets.website-files.com/5bfd1275cc56e15ce750b18e/5c289afb9a1575338a893a5f_33.%20Beauty%20Bush.jpg);
+     margin:0;
+     padding:0;
+
+}
+
+h3 {
+     color:black;
+     font-family: Georgia, serif;
+     font-weight: bold;
+     text-align: center;
+     margin-bottom:0;
+     margin-top: 10px;
+     padding:0;
+
+}
+
+h2 {
+  color:black;
+  font-family: Georgia, serif;
+  font-weight: bold;
+  text-align: center;
+
+}
+h5 {
+  color:black;
+  font-family: Georgia, serif;
+  font-weight: bold;
+  text-align: center;
+
+}
+p {
+   font-family: Palatino;
+   font-size: 24;
+   text-align: justify;
+   text-justify: inter-word;
+   
+}
+
+
